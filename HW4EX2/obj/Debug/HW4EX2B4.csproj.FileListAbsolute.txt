@@ -1,0 +1,24 @@
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\bin\Debug\HW4EX2B4.dll
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\bin\Debug\HW4EX2B4.pdb
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\obj\Debug\HW4EX2B4.csprojAssemblyReference.cache
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\obj\Debug\HW4EX2B4.csproj.CoreCompileInputs.cache
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\obj\Debug\HW4EX2B4.csproj.CopyComplete
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\obj\Debug\HW4EX2B4.dll
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Demo Code\HomeworkCode_SP21\HW4EX2B4\obj\Debug\HW4EX2B4.pdb
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\bin\Debug\HW4EX2B4.dll
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\bin\Debug\HW4EX2B4.pdb
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\obj\Debug\HW4EX2B4.csprojAssemblyReference.cache
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\obj\Debug\HW4EX2B4.csproj.CoreCompileInputs.cache
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\obj\Debug\HW4EX2B4.csproj.CopyComplete
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\obj\Debug\HW4EX2B4.dll
+C:\Users\jbateman\OneDrive - Missouri State University\ITC466 SP21\Homework\HW4EX2B4\obj\Debug\HW4EX2B4.pdb
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX2\bin\Debug\HW4EX2B4.dll
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX2\bin\Debug\HW4EX2B4.pdb
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX2\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX2\obj\Debug\HW4EX2B4.csprojAssemblyReference.cache
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX2\obj\Debug\HW4EX2B4.csproj.CoreCompileInputs.cache
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX2\obj\Debug\HW4EX2B4.csproj.CopyComplete
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX2\obj\Debug\HW4EX2B4.dll
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX2\obj\Debug\HW4EX2B4.pdb
