@@ -1,0 +1,13 @@
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\bin\Debug\netcoreapp3.1\HW4EX1.exe
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\bin\Debug\netcoreapp3.1\HW4EX1.deps.json
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\bin\Debug\netcoreapp3.1\HW4EX1.runtimeconfig.json
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\bin\Debug\netcoreapp3.1\HW4EX1.runtimeconfig.dev.json
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\bin\Debug\netcoreapp3.1\HW4EX1.dll
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\bin\Debug\netcoreapp3.1\HW4EX1.pdb
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\obj\Debug\netcoreapp3.1\HW4EX1.csprojAssemblyReference.cache
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\obj\Debug\netcoreapp3.1\HW4EX1.AssemblyInfoInputs.cache
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\obj\Debug\netcoreapp3.1\HW4EX1.AssemblyInfo.cs
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\obj\Debug\netcoreapp3.1\HW4EX1.csproj.CoreCompileInputs.cache
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\obj\Debug\netcoreapp3.1\HW4EX1.dll
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\obj\Debug\netcoreapp3.1\HW4EX1.pdb
+D:\School Work\ITC 466\Melton_Homework4\ITC466_Melton_Homework4\HW4EX1\HW4EX1\obj\Debug\netcoreapp3.1\HW4EX1.genruntimeconfig.cache
